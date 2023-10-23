@@ -7,7 +7,7 @@
     justify-content: end; */
      background-color: rgb(red);
 }
-/* .card-container{
+.card-container{
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     padding: 5px;
@@ -15,6 +15,10 @@
     color: rgb(0, 0, 0);
     background-color: rgb(224, 235, 245);
     font-weight: bold;
+    
+    background-image: url("https://www.pexels.com/photo/white-and-blue-passenger-airplane-aerial-photography-1004584/");
+    background-size: cover;
+    
    
     
 }
@@ -29,4 +33,4 @@
     font-size: medium;
     margin-left:auto;
 
-} */
+}
