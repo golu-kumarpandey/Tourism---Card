@@ -1,11 +1,11 @@
 .big-container{
-    background-image: url("https://www.pexels.com/photo/white-and-blue-passenger-airplane-aerial-photography-1004584/");
+    background-image: url("../image.jpg");
     height: 100vh;
     background-size: cover;
     /* display: flex;
     flex-direction: column;
     justify-content: end; */
-     background-color: rgb(red);
+    
 }
 .card-container{
     border-top-left-radius: 20px;
